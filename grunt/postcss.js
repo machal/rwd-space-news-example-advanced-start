@@ -12,7 +12,7 @@ module.exports = {
       require('autoprefixer')(),
       // media queries z px do em
       require('postcss-em-media-query')({ }),
-      //  minifikace CSS
+      // minifikace CSS
       require('cssnano')()
     ]
   },
