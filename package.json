@@ -42,7 +42,7 @@
     "fg-loadcss": "^3.1.0",
     "jquery": "^3.6.0",
     "jquery-mousewheel": "^3.1.13",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.4",
     "slick-carousel": "^1.8.1",
     "vanilla-lazyload": "^17.0.0"
   }
